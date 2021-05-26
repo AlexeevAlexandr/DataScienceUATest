@@ -1,0 +1,12 @@
+{
+  "id":1,
+  "username":"username1",
+  "fio":{
+    "id": 1,
+    "name": "name1",
+    "surname": "surname1"
+  },
+  "email":"email1@ukr.net",
+  "birthdate":"2021.02.20",
+  "gender":"male"
+}

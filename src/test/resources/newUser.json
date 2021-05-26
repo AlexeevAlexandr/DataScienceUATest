@@ -1,0 +1,12 @@
+{
+  "id":null,
+  "username":"new_username",
+  "fio":{
+    "id": null,
+    "name": "new_name",
+    "surname": "new_surname"
+  },
+  "email":"new_email3@ukr.net",
+  "birthdate":"2021.02.20",
+  "gender":"male"
+}
